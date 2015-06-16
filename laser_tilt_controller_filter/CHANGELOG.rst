@@ -2,6 +2,20 @@
 Changelog for package laser_tilt_controller_filter
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.26 (2015-02-10)
+-------------------
+
+0.1.25 (2015-02-06)
+-------------------
+* Add library now called after catkin_package
+* Changed install from global to local install for the lib
+* Contributors: TheDash
+
+0.1.24 (2014-10-15)
+-------------------
+* Remove mainpage.dox
+* Contributors: TheDash
+
 0.1.23 (2014-10-15)
 -------------------
 * Updated maintainership
