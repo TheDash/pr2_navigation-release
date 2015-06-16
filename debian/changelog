@@ -1,0 +1,65 @@
+ros-hydro-pr2-navigation (0.1.26-0precise) precise; urgency=high
+
+  * Merge branch 'hydro-devel' of https://github.com/PR2/pr2_navigation into hydro-devel
+  * Updated maintanership
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Tue, 10 Feb 2015 05:00:00 -0000
+
+ros-hydro-pr2-navigation (0.1.25-0precise) precise; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Fri, 06 Feb 2015 05:00:00 -0000
+
+ros-hydro-pr2-navigation (0.1.24-0precise) precise; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Wed, 15 Oct 2014 04:00:00 -0000
+
+ros-hydro-pr2-navigation (0.1.23-0precise) precise; urgency=high
+
+  * Updated maintainership
+  * Contributors: TheDash
+
+ -- Dash <dash@clearpathrobotics.com>  Wed, 15 Oct 2014 04:00:00 -0000
+
+ros-hydro-pr2-navigation (0.1.22-0precise) precise; urgency=high
+
+
+
+ -- Maintained by Eitan Marder-Eppstein <eitan@willowgarage.com>  Mon, 08 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-navigation (0.1.21-0precise) precise; urgency=high
+
+
+
+ -- Maintained by Eitan Marder-Eppstein <eitan@willowgarage.com>  Sat, 06 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-navigation (0.1.20-0precise) precise; urgency=high
+
+  * 0.1.19
+  * Added changelogs
+  * 0.1.18
+  * Generating changelogs; preparing for release
+  * Contributors: TheDash
+
+ -- Maintained by Eitan Marder-Eppstein <eitan@willowgarage.com>  Sat, 06 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-navigation (0.1.19-0precise) precise; urgency=high
+
+  * 0.1.18
+  * Generating changelogs; preparing for release
+  * Contributors: TheDash
+
+ -- Maintained by Eitan Marder-Eppstein <eitan@willowgarage.com>  Sat, 06 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-navigation (0.1.18-0precise) precise; urgency=high
+
+  * catkinize packages
+  * Contributors: Kei Okada
+
+ -- Maintained by Eitan Marder-Eppstein <eitan@willowgarage.com>  Sat, 06 Sep 2014 04:00:00 -0000
+
+
